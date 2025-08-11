@@ -7,7 +7,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning <b>JavaScript, Python, C</b>
+  I’m currently learning and exploring <b>JavaScript, Python, C</b>
 
 </div>
 
