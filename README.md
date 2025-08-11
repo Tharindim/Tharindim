@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/tharindi-marasinghe/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tharindi Marasinghe" height="30" width="40" />
 </a>
-<a href="[https://www.facebook.com/tharindi.marasinghe/](https://www.facebook.com/share/16pMjSHhgC/)" target="_blank">
+<a href="https://www.facebook.com/tharindi.marasinghe/](https://www.facebook.com/share/16pMjSHhgC/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tharindi Marasinghe" height="30" width="40" />
 </a>
 </p>
