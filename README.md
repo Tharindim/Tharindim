@@ -3,11 +3,11 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Tharindi Marasinghe</h1>
-<h3 align="center">Full-Stack Developer | Part-Time Graphic Designer</h3>
+<h3 align="center">Learning to Code, Designing Along the Way</h3>
 
 <div align="center">
  
- 🌱 I’m currently learning <b>JavaScript, Python, Flutter, React</b>
+ 🌱 I’m currently learning <b>JavaScript, Python, C</b>
 
 </div>
 
