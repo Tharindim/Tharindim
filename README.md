@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Tharindi Marasinghe</h1>
-<h3 align="center">Learning to Code, Designing Along the Way</h3>
+<h3 align="center">On a journey of coding and creativity — learning JavaScript, Python, Flutter, and React while exploring design.</h3>
 
 <div align="center">
  
