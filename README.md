@@ -24,8 +24,8 @@
 <h2 align="center">Languages · Frameworks · Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,flutter,react,nodejs,bootstrap,html,css,mysql,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator,canva" />
+    <img src="https://skillicons.dev/icons?i=js,python,c,html,css,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,canva" />
   </a>
 </p>
 
