@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **tharindimarasinghe@gmail.com**
-
 - ⚡ Fun fact **I once tried to debug code for 3 hours... only to realize I forgot a semicolon!**
 
 <h3 align="left">Connect with me:</h3>
