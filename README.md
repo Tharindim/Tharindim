@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java , C**
 
 - ⚡ Fun fact **I once tried to debug code for 3 hours... only to realize I forgot a semicolon!**
 
